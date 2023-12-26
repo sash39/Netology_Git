@@ -43,7 +43,6 @@
 13. Сделайте git push origin master.
 14 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-https://github.com/Rairry/repository_hw_git/commit/b578d0deee0b370cfae33452e25b402b0f6b2ae9
 
 ---
 
@@ -58,8 +57,6 @@ https://github.com/Rairry/repository_hw_git/commit/b578d0deee0b370cfae33452e25b4
 4. Сделайте коммит и пуш.
 5. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-https://github.com/Rairry/repository_hw_git/commit/eb4cbb88dc6a200f4f2007c1237509715c68b05c
-
 ---
 
 ### Задание 3
@@ -73,8 +70,6 @@ https://github.com/Rairry/repository_hw_git/commit/eb4cbb88dc6a200f4f2007c123750
 5. Сделайте мердж этой ветки в основную. Сначала нужно переключиться на неё, а потом вызывать git merge.
 6. Сделайте коммит и пуш.
 7. В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
-
-https://github.com/Rairry/repository_hw_git/network
 
 ---
 
