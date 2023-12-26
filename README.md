@@ -44,6 +44,7 @@
 13. Сделайте git push origin master.
 14 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+https://github.com/sash39/Netology_Git/commit/6f0e368122442466995627dcca4e71673364ddfc
 
 ---
 
