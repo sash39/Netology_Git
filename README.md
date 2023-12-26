@@ -59,6 +59,9 @@ https://github.com/sash39/Netology_Git/commit/6f0e368122442466995627dcca4e716733
 4. Сделайте коммит и пуш.
 5. В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+
+https://github.com/sash39/Netology_Git/commit/a34e4c79194885b92001b67e810b8e2e126fd6de
+
 ---
 
 ### Задание 3
@@ -72,6 +75,8 @@ https://github.com/sash39/Netology_Git/commit/6f0e368122442466995627dcca4e716733
 5. Сделайте мердж этой ветки в основную. Сначала нужно переключиться на неё, а потом вызывать git merge.
 6. Сделайте коммит и пуш.
 7. В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+
+https://github.com/sash39/Netology_Git/network
 
 ---
 
@@ -92,3 +97,5 @@ https://github.com/sash39/Netology_Git/commit/6f0e368122442466995627dcca4e716733
 6. Сделайте коммит и пуш.
 7. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
 8. В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+
+https://github.com/sash39/Netology_Git/network
